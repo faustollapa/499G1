@@ -24,7 +24,7 @@ Close terminal fully, re-open and run flutter doctor. If it does not work, flutt
 
 Downloading Github Files
 
-A link to our Github Repository that will allow you to download the files can be found here: https://github.com/OscarLaraG/499G1
+A link to our Github Repository that will allow you to download the files can be found here: https://github.com/faustollapa/499G1
 
 Click on the Code drop down menu > SSH > Download zip.
 
